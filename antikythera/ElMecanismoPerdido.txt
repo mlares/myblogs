@@ -1,0 +1,96 @@
+El mecanismo perdido
+=====================
+
+Reflexiones sobre el rol de la democratización de las tecnologías modernas
+inspiradas por un mecanismo perdido en el fondo del mar durante más de dos
+milenios.
+
+
+Hace unos 2100 años, un pequeño barco de madera partía de algún lugar de Asia
+Menor, llevando un cargamento de valor incalculable. Su destino sería la
+península itálica, sede del Imperio Romano y hogar de casas nobles que
+adquirían y exhibían piezas de arte de Asia como muestra de su sofisticación
+cultural. Entre las piezas de arte presentes en el tesoro a bordo del barco,
+había una caja de madera con un instrumento que representaba lo más avanzado de
+la tecnología de la época. Seguramente pocas personas entendían cómo se usaba,
+y menos aún comprendían su funcionamiento. La confección de este instrumento
+requirió de un desarrollo científico sin precedentes y de una capacidad técnica
+que aún hoy sorprende. Es decir, el barco transportaba no solo lo más refinado
+del arte del nuevo mundo, sino también conocimiento, tecnología, capacidad de
+comprensión y de predicción.
+
+Pero el barco nunca llegó a su destino. Una fuerte tormenta lo sorprendió en la
+región de las islas griegas y le impuso un desafío que no fue capaz de superar.
+Entre las olas y los vientos, el barco, su tripulación, su arte y su tecnología
+se perdieron en el fondo del mar, cerca de la isla de Antikythera. Allí
+permaneció, ajeno al progreso de la civilización, durante muchos siglos.
+Mientras tanto, los vikingos llegaron a Europa y los europeos a América, se
+sucedieron guerras y la Revolución Francesa. El arte vivió numerosas
+revoluciones: el renacimiento, el barroco, el romanticismo y el impresionismo.
+Y la ciencia, lentamente al principio pero sostenidamente después, trajo la
+revolución copernicana y el heliocentrismo (la Tierra no es el centro del
+Universo),  el fin del heliocentrismo (el Sol tampoco es el centro del
+Universo), las leyes de los gases y de la gravedad, las vacunas, el microscopio
+y el telescopio, por citar solamente algunos. Hasta que en la primavera de
+1900, un equipo de buzos que buscaban esponjas encontró los restos del
+naufragio y, entre ellos, lo que parecía había sido una pequeña caja de madera
+y su contenido: algún tipo de mecanismo con engranajes, que se denominó el
+"mecanismo de Antikythera". El propósito de este mecanismo fue un misterio
+durante más de un siglo. No fue sino hasta el año 2008 que, gracias a técnicas
+de tomografía de rayos X, se pudo obtener un mapa de los engranajes e
+inscripciones de las piezas, encontrando que se trataba de un mecanismo de
+relojería destinado a calcular y predecir las posiciones observadas de los
+planetas en el cielo.
+
+La capacidad de predecir las posiciones de los planetas tenía muchas
+aplicaciones hace dos milenios. El sistema solar funciona como un reloj, y de
+hecho el tiempo que medimos hoy en nuestros relojes es una réplica del tiempo
+definido por las leyes de la física que determinan el movimiento de los
+planetas. Al combinar las posiciones observadas de las estrellas y la medición
+del tiempo es posible conocer la posición de un barco en mar abierto, saber en
+qué dirección viajar o cuánto tiempo falta para llegar a la costa. Dominar el
+entendimiento que permite predecir las fechas y lugares para la observación de
+eclipses y las posiciones de la Luna, el Sol y los planetas observados desde la
+Tierra, brinda un contexto ideal para avanzar en la compresión de las leyes de
+la física y llevó, tal vez un poco más tarde de lo que hubiera sido de no haber
+ocurrido esa fatídica tormenta, a avanzar en la búsqueda de nuestro lugar en el
+Universo como especie inteligente.
+
+La precisión del mecanismo Antikythera en el contexto de la época de su
+construcción es sumamente interesante. De hecho, no aparecieron mecanismos de
+relojería con precisión y complejidad similar hasta casi 5 siglos después del
+naufragio, con los relojes astronómicos construidos en Inglaterra o Italia.
+¿Cómo hubiera sido la historia de la ciencia si este mecanismo llegaba a manos
+de los científicos en los primeros años del primer milenio?  ¿Se hubiera
+buscado a los constructores del mecanismo para entenderlo? ¿Hubiera acelerado
+la evolución de los modelos planetarios? En un ejercicio de imaginación,
+podemos vislumbrar el impacto que hubiera tenido la introducción de esta
+tecnología en Europa, y la importancia de que el conocimiento y la tecnología
+se compartan, se difundan y se registren.
+
+En el presente, la evolución de las tecnologías es mucho más rápida, y además
+las tecnologías de la información y de la comunicación y las mayores
+posibilidades de educación facilitan la democratización del conocimiento. Sin
+embargo, también sucede que la vida moderna muchas veces se ve abrumada por la
+prisa y las urgencias de las actividades diarias. En cierta forma, también está
+latente la amenaza de que las tecnologías se usen y no se comprendan. Puede que
+en algún momento del futuro no muy lejano, y para algún aspecto de las
+tecnologías modernas, se haga realidad lo que alguna vez escribiera Arthur
+Clark: "cualquier tecnología suficientemente avanzada es indistinguible de la
+magia". En particular, las ciencias de datos o las aplicaciones basadas en
+aprendizaje automático tienden a convertirse en cajas negras en donde los
+usuarios no pueden discernir sobre aspectos tales como la veracidad de los
+resultados, la verificación de las hipótesis necesarias, el nivel de
+confidencia estadística de los resultados o la interpretación adecuada de los
+resultados en términos de la formulación del problema. Por eso es muy
+importante que las empresas que ofrecemos servicios y consultoría basados en
+aprendizaje automático trabajen de manera conjunta con los clientes para
+explicar el alcance de esta tecnología y para acompañarlos en la interpretación
+de los resultados. Las limitaciones en el uso de estos métodos existen y muchas
+veces pueden dar lugar a resultados erróneos o, peor aún, a interpretaciones
+erróneas.  Por eso la experiencia de los desarrolladores y científicos de datos
+es un recurso invaluable, y los servicios ofrecidos no son solo la aplicación
+de algoritmos que ya están al alcance de todos, sino también la experiencia y
+el conocimiento necesarios para entender qué hacen los engranajes ocultos de
+esta apasionante tecnología.
+
